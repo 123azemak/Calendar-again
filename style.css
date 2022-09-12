@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+
+}
+.col {
+  border: 2px solid black
+}
+#krismas {
+  background-color: lightblue;
+}
+#birfday {
+  background-color: pink;
+}
